@@ -1,0 +1,55 @@
+색상, 서체, 형태, 배치, 아이콘의 사용 규칙 준수 
+
+# Color
+Key colors
+  Primary color
+  Secondary color
+  Grayscale
+  Alpha
+  Key colors proportion
+Usage
+Point colors
+System colors
+Palette
+Accessibility
+
+# Typography
+Typeface
+Type scale
+  Font weight
+  Line height
+Hierarchy
+
+# Shape
+Corner radius
+  Components by level
+
+# Layout
+Grid
+  Screen margin
+  Column
+  Gutter
+  Sub page layout
+Responsive layout grid
+  Break point
+  Contents area
+Spacing
+  Unit
+  Layout
+  Contents area
+
+# System icon
+Guideline
+  Size
+  Stroke weight
+  Layout
+  Keyline
+Corner radius
+  Basic radius
+  Consistency in visual
+Usage
+Do & Don't
+  Simple
+  Stroke width
+  Use one type of stroke width
+  Icon type(Line, Fill)
